@@ -1,2 +1,2 @@
 # .github
-DEfault community health files and issue templates
+Default community health files and issue templates
